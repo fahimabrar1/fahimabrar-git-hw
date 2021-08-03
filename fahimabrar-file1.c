@@ -1,0 +1,3 @@
+char* fahim(){
+ return fahim;
+}
